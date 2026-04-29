@@ -1,0 +1,5 @@
+com/craigslist/base/BaseTest.class
+com/craigslist/config/FrameworkConfig.class
+com/craigslist/listeners/TestListener.class
+com/craigslist/pages/HousingPage.class
+com/craigslist/config/ConfigManager.class

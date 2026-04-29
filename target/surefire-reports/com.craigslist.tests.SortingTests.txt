@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.craigslist.tests.SortingTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.60 s -- in com.craigslist.tests.SortingTests

@@ -1,0 +1,8 @@
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/base/BaseTest.java
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/config/ConfigManager.java
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/config/FrameworkConfig.java
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/listeners/TestListener.java
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/pages/DashboardPage.java
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/pages/HousingPage.java
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/tests/NavigationTests.java
+/Users/adhamsalem/playwright-java-tests/src/test/java/com/craigslist/tests/SortingTests.java
